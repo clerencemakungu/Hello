@@ -7,6 +7,10 @@ body {
 	margin-top: 50px;
 }
 
+.collapse{
+	font-size: 2rem;
+}
+
 h1 {
 	color: #e21717;
 	font-size: 5rem;
